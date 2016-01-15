@@ -22,7 +22,7 @@
   "Lines_Inseted": 88,
   "Lines_Deleted": 118,
   "CommitParent": "4fdc42cf6332579c162de57ec5ec833343bff3e5",
-  "Classification": "Not_Bug",
+  "Classification": "Bug",
   "KeywordsTitle": "inconsistent",
   "Description": "inconsistent",
   "KeywordsCommit": "fixes inconsistent,Fixed bug,Increased,to reduce",
